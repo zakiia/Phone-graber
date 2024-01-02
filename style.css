@@ -1,0 +1,10 @@
+.spinner {
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+#spinner {
+  display: none;
+}
